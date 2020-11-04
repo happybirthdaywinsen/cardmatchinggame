@@ -1,5 +1,5 @@
 # Individual Project
-This repo is for the final submission of my **Computing 2: Applications** coursework. 
+"Match! Explore the World"is my 1st year **Computing 2: Applications** individual project.  
 
 
 # Proforma 
